@@ -657,7 +657,66 @@
 
                 </div>
               </li>
+<li>
+                <div class="service-card">
 
+
+                  <p class="card-text">Gói 03</p>
+                  <h3 class="h3">
+                    <a href="#" class="card-title">48.000.000đ/tháng </a>
+                  </h3>
+
+                  <ul class="about-list">
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Giá tương tác Mess
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Số tương tác Mess
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Khu vực
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Đối tượng
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thời gian
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Viết content chạy ads: Miễn phí 10 bài
+                      </p>
+                    </li>
+
+                  </ul>
+
+                </div>
+              </li>
 
 
 

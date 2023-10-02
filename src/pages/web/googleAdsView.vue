@@ -736,8 +736,8 @@
 
                   <h3 class="h3 card-title">Mail Here</h3>
 
-                  <a href="mailto:hello@luaz.com" class="card-link">abc@123.com</a>
-                  <a href="mailto:info@luaz.com" class="card-link">info@123.com</a>
+                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
 
                 </div>
 
@@ -776,8 +776,8 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
-                  <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+                  <a href="tel:+84974151514" class="card-link">+84974151514</a>
+                  <a href="tel:+84974151514" class="card-link">+84974151514</a>
 
                 </div>
 

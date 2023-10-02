@@ -604,8 +604,8 @@
 
                   <h3 class="h3 card-title">Mail Here</h3>
 
-                  <a href="mailto:hello@luaz.com" class="card-link">abc@123.com</a>
-                  <a href="mailto:info@luaz.com" class="card-link">info@123.com</a>
+                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
 
                 </div>
 

@@ -12,7 +12,7 @@
             <h1 class="h1 hero-title">Giải pháp Marketing hiệu quả cho doanh nghiệp của bạn</h1>
 
             <p class="hero-text">
-              Bắt đầu cùng với đội ngũ chuyên nghiệp của chúng tôi
+              111Bắt đầu cùng với đội ngũ chuyên nghiệp của chúng tôi
             </p>
 
             <a href="#service" class="btn btn-primary">Bắt đầu ngay</a>

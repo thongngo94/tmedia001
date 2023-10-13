@@ -50,7 +50,7 @@
                 </h3>
 
                 <p class="card-text">
-                  Dịch vụ Quảng cáo Facebook của chúng tôi: Khi bạn muốn thúc đẩy thương hiệu và sản phẩm của mình lên tầm cao mới, Facebook là một trong những công cụ quảng cáo mạnh mẽ và hiệu quả nhất trên thị trường kỹ thuật số. Với hơn 2 tỷ người dùng hàng tháng
+                  Dịch vụ Quảng cáo Facebook của chúng tôi: Lĩnh vực công nghệ thông tin ngày càng phát triển, những kênh mạng xã hội dần trở nên phổ biển rộng rãi. Thông qua các thiết bị thông minh ví dụ như: Điện thoại thông minh, Laptop, Tablet…Nhiều cá nhân, công ty kinh doanh Online dùng dịch vụ quảng cáo facebook để quảng bá cho sản phẩm và thương hiệu của mình. Nhờ quảng cáo facebook mà các mặt hàng của các doanh nghiệp, cửa hàng được biết đến rộng rãi với người tiêu dùng.
                 </p>
 
               </div>

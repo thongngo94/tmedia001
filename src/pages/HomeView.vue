@@ -474,16 +474,12 @@
         </div>
       </section>
 
-      <section class="section blog" id="blog" aria-label="blog">
+     <!-- <section class="section blog" id="blog" aria-label="blog">
         <div class="container">
 
           <h2 class="h2 section-title">Bài viết mới nhất được cập nhật hàng tuần</h2>
 
-          <!--          <p class="section-text">-->
-          <!--            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et-->
-          <!--            dolore magna-->
-          <!--            aliqua.-->
-          <!--          </p>-->
+         
 
           <ul class="grid-list">
 
@@ -595,7 +591,7 @@
           </ul>
 
         </div>
-      </section>
+      </section>-->
 
 
       <section class="section contact" id="contact" aria-label="contact">

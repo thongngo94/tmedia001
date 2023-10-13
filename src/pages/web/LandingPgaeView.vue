@@ -58,7 +58,7 @@
         </ul>
       </nav>
 
-      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler>
+      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler @click="toggleNavbar">
         <ion-icon name="menu-outline" class="open"></ion-icon>
         <ion-icon name="close-outline" class="close"></ion-icon>
       </button>
@@ -605,7 +605,7 @@
                   <h3 class="h3 card-title">Mail Here</h3>
 
                   <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
-                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+
 
                 </div>
 
@@ -644,8 +644,8 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
-                  <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+                  <a href="tel:+0974151514" class="card-link">+0974151514</a>
+
 
                 </div>
 
@@ -662,13 +662,25 @@
 
 
 </template>
-<script>
+<script setup>
 
 import {defineComponent} from "vue";
 import {Link} from "view-ui-plus";
 import Header from "../../components/Header.vue";
+const toggleNavbar = () => {
+  const navbar = document.querySelector("[data-navbar]");
+  navbar.classList.toggle("active");
+};
 
-export default defineComponent({
-  components: {Header, Link}
-})
+const scrollToSection = (sectionId) => {
+  const section = document.querySelector(sectionId);
+  if (section) {
+    window.scrollTo({
+      top: section.offsetTop,
+      behavior: 'smooth',
+    });
+    toggleNavbar(); // Close the navbar after clicking a link
+  }
+};
+
 </script>

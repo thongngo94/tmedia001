@@ -55,7 +55,7 @@
           </ul>
         </nav>
 
-        <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler>
+        <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler @click="toggleNavbar">
           <ion-icon name="menu-outline" class="open"></ion-icon>
           <ion-icon name="close-outline" class="close"></ion-icon>
         </button>
@@ -657,66 +657,7 @@
 
                 </div>
               </li>
-<li>
-                <div class="service-card">
 
-
-                  <p class="card-text">Gói 03</p>
-                  <h3 class="h3">
-                    <a href="#" class="card-title">48.000.000đ/tháng </a>
-                  </h3>
-
-                  <ul class="about-list">
-
-                    <li class="about-item">
-                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
-
-                      <p class="section-text">
-                        Giá tương tác Mess
-                      </p>
-                    </li>
-
-                    <li class="about-item">
-                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
-
-                      <p class="section-text">
-                        Số tương tác Mess
-                      </p>
-                    </li>
-
-                    <li class="about-item">
-                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
-
-                      <p class="section-text">
-                        Khu vực
-                      </p>
-                    </li>
-                    <li class="about-item">
-                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
-
-                      <p class="section-text">
-                        Đối tượng
-                      </p>
-                    </li>
-                    <li class="about-item">
-                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
-
-                      <p class="section-text">
-                        Thời gian
-                      </p>
-                    </li>
-                    <li class="about-item">
-                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
-
-                      <p class="section-text">
-                        Viết content chạy ads: Miễn phí 10 bài
-                      </p>
-                    </li>
-
-                  </ul>
-
-                </div>
-              </li>
 
 
 
@@ -798,8 +739,8 @@
 
                     <h3 class="h3 card-title">Mail Here</h3>
 
-                    <a href="mailto:hello@luaz.com" class="card-link">abc@123.com</a>
-                    <a href="mailto:info@luaz.com" class="card-link">info@123.com</a>
+                    <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+
 
                   </div>
 
@@ -838,8 +779,7 @@
 
                     <h3 class="h3 card-title">Call Here</h3>
 
-                    <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
-                    <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+                    <a href="tel:+0974151514" class="card-link">+0974151514</a>
 
                   </div>
 
@@ -855,13 +795,29 @@
 
 
   </template>
-  <script>
+  <script setup>
 
-  import {defineComponent} from "vue";
+  // import {defineComponent} from "vue";
   import {Link} from "view-ui-plus";
   import Header from "../../components/Header.vue";
 
-  export default defineComponent({
-    components: {Header, Link}
-  })
+  // export default defineComponent({
+  //   components: {Header, Link}
+  // })
+
+  const toggleNavbar = () => {
+    const navbar = document.querySelector("[data-navbar]");
+    navbar.classList.toggle("active");
+  };
+
+  const scrollToSection = (sectionId) => {
+    const section = document.querySelector(sectionId);
+    if (section) {
+      window.scrollTo({
+        top: section.offsetTop,
+        behavior: 'smooth',
+      });
+      toggleNavbar(); // Close the navbar after clicking a link
+    }
+  };
   </script>

@@ -58,7 +58,7 @@
         </ul>
       </nav>
 
-      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler>
+      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler @click="toggleNavbar">
         <ion-icon name="menu-outline" class="open"></ion-icon>
         <ion-icon name="close-outline" class="close"></ion-icon>
       </button>
@@ -387,10 +387,10 @@
         <div class="container">
 
           <h2 class="h3 section-title">
-            Bảng Báo Giá Dịch Vụ Chăm Sóc Fanpage Facebook</h2>
+            Bảng Báo Giá Dịch Vụ Quảng Cáo Instagram</h2>
 
           <p class="section-text">
-            Dưới đây là bảng báo giá dịch vụ quản trị fanpage trọn gói của Trung Huy Marketing. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0935 7777 69 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
+            Dưới đây là bảng báo giá dịch vụ Quảng Cáo Instagram . Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0974151514 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
           </p>
 
           <ul class="grid-list">
@@ -566,7 +566,7 @@
       <section class="section service" id="service2" aria-label="hero">
         <div class="container">
           <h2 class="h3 section-title">
-            Quy Trình Chăm Sóc Fanpage Facebook Tại T-Media Marketing</h2>
+            Quy Trình Quảng Cáo Instagram Tại T-Media Marketing</h2>
           <p class="section-text">
             Khách Hàng Chưa Có Fanpage
           </p>
@@ -649,8 +649,8 @@
 
                   <h3 class="h3 card-title">Mail Here</h3>
 
-                  <a href="mailto:hello@luaz.com" class="card-link">abc@123.com</a>
-                  <a href="mailto:info@luaz.com" class="card-link">info@123.com</a>
+
+                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
 
                 </div>
 
@@ -689,8 +689,8 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
-                  <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+
+                  <a href="tel:+0974151514" class="card-link">+0974151514</a>
 
                 </div>
 
@@ -707,13 +707,25 @@
 
 
 </template>
-<script>
+<script setup>
 
 import {defineComponent} from "vue";
 import {Link} from "view-ui-plus";
 import Header from "../../components/Header.vue";
 
-export default defineComponent({
-  components: {Header, Link}
-})
+const toggleNavbar = () => {
+  const navbar = document.querySelector("[data-navbar]");
+  navbar.classList.toggle("active");
+};
+
+const scrollToSection = (sectionId) => {
+  const section = document.querySelector(sectionId);
+  if (section) {
+    window.scrollTo({
+      top: section.offsetTop,
+      behavior: 'smooth',
+    });
+    toggleNavbar(); // Close the navbar after clicking a link
+  }
+};
 </script>

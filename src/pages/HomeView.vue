@@ -171,7 +171,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Quản trị Website</Link>
+                  <Link to="/quan-tri-website" class="card-title">Quản trị Website</Link>
                 </h3>
 
                 <p class="card-text">
@@ -222,7 +222,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Thiết kế Website</Link>
+                  <Link to="/thietkeweb" class="card-title">Thiết kế Website</Link>
                 </h3>
 
                 <p class="card-text">
@@ -652,7 +652,7 @@
                   <h3 class="h3 card-title">Mail Here</h3>
 
                   <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
-                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+
 
                 </div>
 
@@ -691,8 +691,8 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
-                  <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+                  <a href="tel:+0974151514" class="card-link">+ 0974151514</a>
+
 
                 </div>
 

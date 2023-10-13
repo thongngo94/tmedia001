@@ -67,7 +67,7 @@
       </nav>
 
 
-      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler >
+      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler @click="toggleNavbar">
         <ion-icon name="menu-outline"  class="open" ></ion-icon>
         <ion-icon name="close-outline"  class="close" ></ion-icon>
       </button>
@@ -76,8 +76,41 @@
   </header>
 </template>
 
-<script >
+<!--<script>-->
+<!--export default {-->
+<!--  methods: {-->
+<!--    toggleNavbar() {-->
+<!--      const navbar = document.querySelector("[data-navbar]");-->
+<!--      navbar.classList.toggle("active");-->
+<!--    },-->
+<!--    scrollToSection(sectionId) {-->
+<!--      const section = document.querySelector(sectionId);-->
+<!--      if (section) {-->
+<!--        window.scrollTo({-->
+<!--          top: section.offsetTop,-->
+<!--          behavior: 'smooth',-->
+<!--        });-->
+<!--        this.toggleNavbar(); // Close the navbar after clicking a link-->
+<!--      }-->
+<!--    },-->
+<!--  },-->
+<!--};-->
+<!--</script>-->
 
+<script setup>
+const toggleNavbar = () => {
+  const navbar = document.querySelector("[data-navbar]");
+  navbar.classList.toggle("active");
+};
 
-
+const scrollToSection = (sectionId) => {
+  const section = document.querySelector(sectionId);
+  if (section) {
+    window.scrollTo({
+      top: section.offsetTop,
+      behavior: 'smooth',
+    });
+    toggleNavbar(); // Close the navbar after clicking a link
+  }
+};
 </script>

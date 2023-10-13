@@ -58,7 +58,7 @@
         </ul>
       </nav>
 
-      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler>
+      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler @click="toggleNavbar">
         <ion-icon name="menu-outline" class="open"></ion-icon>
         <ion-icon name="close-outline" class="close"></ion-icon>
       </button>
@@ -369,10 +369,10 @@
         <div class="container">
 
           <h2 class="h3 section-title">
-            Bảng Báo Giá Dịch Vụ Tăng Follow Tiktok</h2>
+            Bảng Báo Giá Dịch Vụ Quảng Cáo TikTok</h2>
 
           <p class="section-text">
-            Dưới đây là bảng báo giá dịch vụ tăng follow Tiktok của T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0974 151514 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
+            Dưới đây là bảng báo giá dịch vụ Quảng Cáo TikTok  của T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0974 151514 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
           </p>
 
           <ul class="grid-list">
@@ -470,7 +470,7 @@
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Đơn giá / Follow: 150 đ
+                      Số Click: Liên hệ
                     </p>
                   </li>
 
@@ -478,21 +478,21 @@
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Thời gian hoàn thành: 10-30 Ngày
+                      Loại hình Ads: In Feed Ads
                     </p>
                   </li>
                   <li class="about-item">
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Tài khoản Thật Follow: Người Việt
+                      Thời gian hoàn thành: 7-15 ngày
                     </p>
                   </li>
                   <li class="about-item">
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Bảo hành Follow sau mua
+                      Khu vực, đối tượng: Tuỳ chọn
                     </p>
                   </li>
                   <li class="about-item">
@@ -506,7 +506,7 @@
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Ưu đãi: Tặng Landing Page trị giá 3,6 Triệu
+                      Cam kết: 100% Click thật
                     </p>
                   </li>
 
@@ -524,7 +524,7 @@
 
                 <p class="card-text">GÓI - PREMIUM</p>
                 <h3 class="h3">
-                  <a href="#" class="card-title">60.000.000đ/tháng</a>
+                  <a href="#" class="card-title">30.000.000đ/tháng</a>
                 </h3>
 
                 <ul class="about-list">
@@ -533,7 +533,7 @@
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      500.000 follower
+                      Gía Click : Liên hệ
                     </p>
                   </li>
 
@@ -541,7 +541,7 @@
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Đơn giá / Follow: 120 đ
+                      Số Click: Liên hệ
                     </p>
                   </li>
 
@@ -549,21 +549,21 @@
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Thời gian hoàn thành: 15-30 Ngày
+                      Loại hình Ads: In Feed Ads
                     </p>
                   </li>
                   <li class="about-item">
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Tài khoản Thật Follow: Người Việt
+                      Thời gian hoàn thành: 7-15 ngày
                     </p>
                   </li>
                   <li class="about-item">
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Bảo hành Follow sau mua
+                      Khu vực, đối tượng: Tuỳ chọn
                     </p>
                   </li>
                   <li class="about-item">
@@ -577,7 +577,7 @@
                     <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                     <p class="section-text">
-                      Ưu đãi: Tặng Landing Page trị giá 4,8 Triệu
+                      Cam kết: 100% Click thật
                     </p>
                   </li>
 
@@ -620,7 +620,7 @@
       <section class="section service" id="service2" aria-label="hero">
         <div class="container">
           <h2 class="h3 section-title">
-            Quy Trình Dịch Vụ Tăng Follow TikTok TẠI T-Media Marketing</h2>
+            Quy Trình Dịch Vụ Quảng Cáo TikTok TẠI T-Media Marketing</h2>
           <!--          <p class="section-text">-->
           <!--            Khách Hàng Chưa Có Fanpage-->
           <!--          </p>-->
@@ -762,8 +762,8 @@
 
                   <h3 class="h3 card-title">Mail Here</h3>
 
-                  <a href="mailto:hello@luaz.com" class="card-link">abc@123.com</a>
-                  <a href="mailto:info@luaz.com" class="card-link">info@123.com</a>
+                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+
 
                 </div>
 
@@ -802,8 +802,8 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
-                  <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+                  <a href="tel:+0974151514" class="card-link">+0974151514</a>
+
 
                 </div>
 
@@ -820,13 +820,25 @@
 
 
 </template>
-<script>
+<script setup>
 
 import {defineComponent} from "vue";
 import {Link} from "view-ui-plus";
 import Header from "../../components/Header.vue";
 
-export default defineComponent({
-  components: {Header, Link}
-})
+const toggleNavbar = () => {
+  const navbar = document.querySelector("[data-navbar]");
+  navbar.classList.toggle("active");
+};
+
+const scrollToSection = (sectionId) => {
+  const section = document.querySelector(sectionId);
+  if (section) {
+    window.scrollTo({
+      top: section.offsetTop,
+      behavior: 'smooth',
+    });
+    toggleNavbar(); // Close the navbar after clicking a link
+  }
+};
 </script>

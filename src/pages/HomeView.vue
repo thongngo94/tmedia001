@@ -606,7 +606,6 @@
           <p class="section-text">
             Khi Bạn Cần, Chúng Tôi Sẽ Ở Đây - Hãy Liên Hệ Với Chúng Tôi.
           </p>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d239.69776803841566!2d108.22068300000001!3d16.004961!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421bcafe6e72df%3A0xfee3db1bc500b1cb!2sT-Media!5e0!3m2!1svi!2s!4v1697195722712!5m2!1svi!2s" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            <div class="input-wrapper">
               <input type="text" name="name" aria-label="name" placeholder="Your name*" required class="input-field">
 
               <input type="email" name="email_address" aria-label="email" placeholder="Email address*" required

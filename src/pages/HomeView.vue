@@ -636,66 +636,63 @@
 
           <ul class="contact-list">
 
-            <li class="contact-item">
-              <div class="contact-card">
+<li class="contact-item">
+  <div class="contact-card">
 
-                <div class="card-icon">
-                  <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-                </div>
+    <div class="card-icon">
+      <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+    </div>
 
-                <div class="card-content">
+    <div class="card-content">
 
-                  <h3 class="h3 card-title">Mail Here</h3>
+      <h3 class="h3 card-title">Mail Here</h3>
 
-                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+      <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
 
+    </div>
 
-                </div>
+  </div>
+</li>
 
-              </div>
-            </li>
+<li class="contact-item">
+  <div class="contact-card">
 
-            <li class="contact-item">
-              <div class="contact-card">
+    <div class="card-icon">
+      <ion-icon name="map-outline" aria-hidden="true"></ion-icon>
+    </div>
 
-                <div class="card-icon">
-                  <ion-icon name="map-outline" aria-hidden="true"></ion-icon>
-                </div>
+    <div class="card-content">
 
-                <div class="card-content">
+      <h3 class="h3 card-title">Địa chỉ</h3>
 
-                  <h3 class="h3 card-title">Địa chỉ</h3>
+      <address class="card-address">
+        08 Thanh Lương 3, Đà Nẵng, Việt Nam
+      </address>
 
-                  <address class="card-address">
-                    08 Thanh Lương 3, Hoà xuân<br>
-                    Cẩm lệ , Đà Nẵng, Việt Nam
-                  </address>
+    </div>
 
-                </div>
+  </div>
+</li>
 
-              </div>
-            </li>
+<li class="contact-item">
+  <div class="contact-card">
 
-            <li class="contact-item">
-              <div class="contact-card">
+    <div class="card-icon">
+      <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
+    </div>
 
-                <div class="card-icon">
-                  <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
-                </div>
+    <div class="card-content">
 
-                <div class="card-content">
+      <h3 class="h3 card-title">Call Here</h3>
 
-                  <h3 class="h3 card-title">Call Here</h3>
+      <a href="tel:+0964.898.041" class="card-link">0964.898.041</a>
 
-                  <a href="tel:+0964.898.041" class="card-link">+ 0964.898.041</a>
+    </div>
 
+  </div>
+</li>
 
-                </div>
-
-              </div>
-            </li>
-
-          </ul>
+</ul>
 
         </div>
       </section>

@@ -96,7 +96,7 @@
         <div class="container">
 
           <div class="about-banner img-holder" style="--width: 930; --height: 960;">
-            <img src="../../assets/images/quang-cao-facebook1.png" width="1000" height="1000" loading="lazy" alt="about banner"
+            <img src="../../assets/images/page.jpg" width="1000" height="1000" loading="lazy" alt="about banner"
                  class="img-cover">
 
             <button class="play-btn" aria-label="Play video">

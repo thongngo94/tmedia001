@@ -82,9 +82,7 @@
             <a href="#" class="btn btn-primary">Get Started</a>
 
           </div>
-          <figure class="hero-banner">
-            <img src="../../assets/images/Frame-107-2048x1000.png" alt="hero banner" class="w-100">
-          </figure>
+          
 
         </div>
 
@@ -96,7 +94,7 @@
         <div class="container">
 
           <div class="about-banner img-holder" style="--width: 930; --height: 960;">
-            <img src="../../assets/images/quang-cao-facebook1.png" width="1000" height="1000" loading="lazy" alt="about banner"
+            <img src="../../assets/images/web.jpg" width="1000" height="1000" loading="lazy" alt="about banner"
                  class="img-cover">
 
             <button class="play-btn" aria-label="Play video">
@@ -812,8 +810,7 @@
 
                   <h3 class="h3 card-title">Mail Here</h3>
 
-                  <a href="mailto:hello@luaz.com" class="card-link">abc@123.com</a>
-                  <a href="mailto:info@luaz.com" class="card-link">info@123.com</a>
+                  <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
 
                 </div>
 
@@ -832,8 +829,7 @@
                   <h3 class="h3 card-title">Địa chỉ</h3>
 
                   <address class="card-address">
-                    08 Thanh Lương 3, Hoà xuân<br>
-                    Cẩm lệ , Đà Nẵng, Việt Nam
+                    08 Thanh Lương 3, Đà Nẵng, Việt Nam
                   </address>
 
                 </div>

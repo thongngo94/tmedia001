@@ -1,6 +1,3 @@
-
-
-
 <template>
   <header class="header" data-header>
     <div class="container">

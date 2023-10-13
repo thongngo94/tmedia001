@@ -527,7 +527,7 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Bài viết tương tác chuyên sâu : KHÔNG
+                        Bài viết tương tác chuyên sâu:KHÔNG
                       </p>
                     </li>
                     <li class="about-item">
@@ -629,14 +629,14 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Chia sẻ group tiềm năng : KHÔNG
+                        Chia sẻ group tiềm năng : 10 nhóm
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Tăng Like bài viết : 10 nhóm
+                        Tăng Like bài viết : KHÔNG
                       </p>
                     </li>
                     <li class="about-item">
@@ -947,6 +947,101 @@
 
                       <p class="section-text">
                         Thời Gian : 1 Tháng
+                      </p>
+                    </li>
+
+                  </ul>
+
+                </div>
+              </li>
+              <li>
+                <div class="service-card">
+
+
+                  <p class="card-text">CHẠY THEO NGÂN SÁCH</p>
+                  <h3 class="h3">
+                    <a href="#" class="card-title">KHÔNG GIỚI HẠN </a>
+                  </h3>
+
+                  <ul class="about-list">
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tạo Fanpage Chuẩn SEO
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tạo Bài Viết Chuẩn SEO
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thiết kế cover,banner
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Đổi tên Fanpage
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Hỗ trợ chạy VPCS
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Bài viết tương tác chuyên sâu
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Chia sẻ group tiềm năng
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tăng Like bài viết
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tăng Like page
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Lượt tiếp cận
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        LIÊN HỆ ĐỂ ĐƯỢC TƯ VẤN
                       </p>
                     </li>
 

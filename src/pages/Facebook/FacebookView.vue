@@ -469,7 +469,7 @@
               Bảng Báo Giá Dịch Vụ Quảng Cáo Facebook</h2>
 
             <p class="section-text">
-              Dưới đây là bảng báo giá dịch vụ quảng cáo Facebook tại T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0935 7777 69 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
+              Dưới đây là bảng báo giá dịch vụ quảng cáo Facebook tại T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0964.898.041 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
             </p>
 
             <ul class="grid-list">

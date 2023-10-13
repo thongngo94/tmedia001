@@ -199,7 +199,7 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="/facebook" class="card-title">Tương Tác, Tiếp Cận Cao </a>
+                    <a href="#" class="card-title">Tương Tác, Tiếp Cận Cao </a>
                   </h3>
 
                   <p class="card-text">
@@ -217,7 +217,7 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="/facebook" class="card-title">Mẫu Quảng Cáo Ấn Tượng </a>
+                    <a href="#" class="card-title">Mẫu Quảng Cáo Ấn Tượng </a>
                   </h3>
 
                   <p class="card-text">
@@ -235,7 +235,7 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="/facebook" class="card-title">Không Giới Hạn Mẫu Quảng Cáo</a>
+                    <a href="#" class="card-title">Không Giới Hạn Mẫu Quảng Cáo</a>
                   </h3>
 
                   <p class="card-text">
@@ -253,7 +253,7 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="/facebook" class="card-title">Ngân Sách Không Giới Hạn</a>
+                    <a href="#" class="card-title">Ngân Sách Không Giới Hạn</a>
                   </h3>
 
                   <p class="card-text">
@@ -314,7 +314,7 @@
                       <a href="#" class="card-title">Dựa theo số lượng khách hàng nhìn thấy bài viết quảng cáo Facebook để tính phí. Mục tiêu nhằm tăng độ phủ, nhận diện thương hiệu trên Social</a>
                     </h3>
 
-                    <a href="#project" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-primary">View Details</a>
 
                   </div>
 
@@ -337,7 +337,7 @@
                       <a href="#" class="card-title">Quảng cáo sẽ hiển thị trên New Feed & Messenger người dùng, khi khách hàng click vào sẽ mở ra cửa sổ Inbox Messenger. Dịch vụ này giúp Fanpage nhận diện data khách hàng tiềm năng, phí quảng cáo tính trên số lần tương tác của khách hàng</a>
                     </h3>
 
-                    <a href="#project" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-primary">View Details</a>
 
                   </div>
 
@@ -360,7 +360,7 @@
                       <a href="#" class="card-title">Hình thức này sẽ tính phí khi người dùng tương tác vào bài viết đang chạy quảng cáo. Sự tương tác ở đây có thể là Click, Inbox,Share hoặc Comment vào bài post</a>
                     </h3>
 
-                    <a href="#project" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-primary">View Details</a>
 
                   </div>
 
@@ -383,7 +383,7 @@
                       <a href="#" class="card-title">Là hình thức quảng cáo nhằm tăng thêm số lượt người Like fanpage. Chi phí dịch vụ sẽ tính trên số lượt like Fanpage Facebook được tạo ra. Tùy lĩnh vực và target mà giá like sẽ khác nhau</a>
                     </h3>
 
-                    <a href="#project" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-primary">View Details</a>
 
                   </div>
 
@@ -406,7 +406,7 @@
                       <a href="#" class="card-title">Hình thức quảng cáo Facebook này tính phí trên số lượt xem video sau 15s. Quảng cáo có nội dung và hiển thị ở nhiều vị trí trên Facebook, có thể là New Feed hoặc Tab video…</a>
                     </h3>
 
-                    <a href="#project" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-primary">View Details</a>
 
                   </div>
 
@@ -429,7 +429,7 @@
                       <a href="#" class="card-title">Khi khách hàng mục tiêu bấm vào quảng cáo Sponsored sẽ được chuyển hướng về Landing Page doanh nghiệp. Bảng giá quảng cáo theo lượt Click</a>
                     </h3>
 
-                    <a href="#project" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-primary">View Details</a>
 
                   </div>
 
@@ -451,7 +451,7 @@
                       <a href="#" class="card-title">Muốn thực hiện chiến dịch quảng cáo hình thức này, yêu cầu Fanpage phải có thương hiệu và tích xanh. Chi phí quảng cáo tính trên số lượt view video sau 3s. Mục tiêu giúp các video livestream trực tiếp có nhiều lượt xem hơn.</a>
                     </h3>
 
-                    <a href="#project" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-primary">View Details</a>
 
                   </div>
 

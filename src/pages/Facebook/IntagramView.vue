@@ -383,7 +383,7 @@
 
         </div>
       </section>
-      <section class="section service" id="service1" aria-label="service">
+    <!--  <section class="section service" id="service1" aria-label="service">
         <div class="container">
 
           <h2 class="h3 section-title">
@@ -537,33 +537,13 @@
 
 
 
-            <!--          <li>-->
-            <!--            <div class="service-card">-->
-
-            <!--              <div class="card-icon" style="background-color: #ff612f">-->
-            <!--                <ion-icon name="build"></ion-icon>-->
-            <!--              </div>-->
-
-            <!--              <h3 class="h3">-->
-            <!--                <a href="#" class="card-title">Marketing & Reporting</a>-->
-            <!--              </h3>-->
-
-            <!--              <p class="card-text">-->
-            <!--                Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem-->
-            <!--                aperiam, eaque-->
-            <!--                ipsa quae.-->
-            <!--              </p>-->
-
-            <!--            </div>-->
-            <!--          </li>-->
-
           </ul>
 
 
 
         </div>
-      </section>
-      <section class="section service" id="service2" aria-label="hero">
+      </section> -->
+     <!-- <section class="section service" id="service2" aria-label="hero">
         <div class="container">
           <h2 class="h3 section-title">
             Quy Trình Quảng Cáo Instagram Tại T-Media Marketing</h2>
@@ -595,7 +575,7 @@
 
 
 
-      </section>
+      </section> -->
       <section class="section contact" id="contact" aria-label="contact">
         <div class="container">
 

@@ -667,8 +667,7 @@
                   <h3 class="h3 card-title">Địa chỉ</h3>
 
                   <address class="card-address">
-                    08 Thanh Lương 3, Hoà xuân<br>
-                    Cẩm lệ , Đà Nẵng, Việt Nam
+                    08 Thanh Lương 3, Đà Nẵng, Việt Nam
                   </address>
 
                 </div>

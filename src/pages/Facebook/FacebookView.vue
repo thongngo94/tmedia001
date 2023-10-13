@@ -308,11 +308,11 @@
 
                   <div class="card-content">
 
-                    <p class="card-subtitle"><h3>Quảng Cáo Facebook Tiếp Cận</h3></p>
+                    <p class="card-subtitle">Quảng Cáo Facebook Tiếp Cận</p>
 
-                    <h6 class="h6">
+                    <h3 class="h3">
                       <a href="#" class="card-title">Dựa theo số lượng khách hàng nhìn thấy bài viết quảng cáo Facebook để tính phí. Mục tiêu nhằm tăng độ phủ, nhận diện thương hiệu trên Social</a>
-                    </h6>
+                    </h3>
 
                     <a href="#" class="btn btn-primary">View Details</a>
 
@@ -477,12 +477,12 @@
               <li>
                 <div class="service-card">
 
-                  <p class="card-text">Gói 01</p>
+                  <p class="card-text">Gói BEGIN</p>
 
 
 
                   <h3 class="h3">
-                    <Link to="/facebook" class="card-title">14.000.000đ/tháng</Link>
+                    <Link to="/facebook" class="card-title">3.900.000đ/tháng</Link>
                   </h3>
                   <ul class="about-list">
 
@@ -490,7 +490,7 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Giá tương tác Mess
+                        Tạo Fanpage Chuẩn SEO
                       </p>
                     </li>
 
@@ -498,7 +498,7 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Số tương tác Mess
+                        Tạo Bài Viết Chuẩn SEO
                       </p>
                     </li>
 
@@ -506,28 +506,81 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Khu vực
+                        40.000 Lượt Tiếp Cận
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Đối tượng
+                        Thời Gian : 1 Tháng
+                      </p>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+
+              <li>
+                <div class="service-card">
+
+                  <p class="card-text">Gói STANDARD</p>
+
+
+
+                  <h3 class="h3">
+                    <Link to="/facebook" class="card-title">4.900.000đ/tháng</Link>
+                  </h3>
+                  <ul class="about-list">
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tạo Fanpage Chuẩn SEO
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tạo Bài Viết Chuẩn SEO
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thiết Kế Cover,Banner
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Thời gian
+                        Bài viết tương tác chuyên sâu : 1 bài
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Viết content chạy ads: Miễn phí 2 bài
+                        Chia sẻ group tiềm năng : 10 nhóm
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        50.000 Lượt tiếp cận
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thời Gian : 1 Tháng
                       </p>
                     </li>
 
@@ -539,10 +592,93 @@
               <li>
                 <div class="service-card">
 
-                  <p class="card-text">Gói 02</p>
+                  <p class="card-text">Gói ADVANCE</p>
+
+
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">36.000.000đ/tháng </a>
+                    <Link to="/facebook" class="card-title">5.900.000đ/tháng</Link>
+                  </h3>
+                  <ul class="about-list">
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tạo Fanpage Chuẩn SEO
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tạo Bài Viết Chuẩn SEO
+                      </p>
+                    </li>
+
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thiết kế cover,banner
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Đổi tên Fanpage
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Bài viết tương tác chuyên sâu : 5 bài
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Chia sẻ group tiềm năng : 50 nhóm
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tăng Like bài viết : 50 like
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        60.000 Lượt tiếp cận
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thời Gian : 1 Tháng
+                      </p>
+                    </li>
+
+                  </ul>
+
+                </div>
+              </li>
+
+              <li>
+                <div class="service-card">
+
+                  <p class="card-text">Gói PRO</p>
+
+                  <h3 class="h3">
+                    <a href="#" class="card-title">7.900.000đ/tháng </a>
                   </h3>
 
                   <ul class="about-list">
@@ -551,7 +687,7 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Giá tương tác Mess
+                        Tạo Fanpage Chuẩn SEO
                       </p>
                     </li>
 
@@ -559,7 +695,7 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Số tương tác Mess
+                        Tạo Bài Viết Chuẩn SEO
                       </p>
                     </li>
 
@@ -567,28 +703,56 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Khu vực
+                        Thiết kế cover,banner
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Đối tượng
+                        Đổi tên Fanpage
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Thời gian
+                        Bài viết tương tác chuyên sâu : 10 bài
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Viết content chạy ads: Miễn phí 5 bài
+                        Chia sẻ group tiềm năng : 75 nhóm
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tăng Like bài viết : 100 like
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tăng Like page : 2.000 like
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        70.000 Lượt tiếp cận
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thời Gian : 1 Tháng
                       </p>
                     </li>
 
@@ -601,9 +765,9 @@
                 <div class="service-card">
 
 
-                  <p class="card-text">Gói 03</p>
+                  <p class="card-text">Gói PREMIUM</p>
                   <h3 class="h3">
-                    <a href="#" class="card-title">48.000.000đ/tháng </a>
+                    <a href="#" class="card-title">8.900.000đ/tháng </a>
                   </h3>
 
                   <ul class="about-list">
@@ -612,7 +776,7 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Giá tương tác Mess
+                        Tạo Fanpage Chuẩn SEO
                       </p>
                     </li>
 
@@ -620,7 +784,7 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Số tương tác Mess
+                        Tạo Bài Viết Chuẩn SEO
                       </p>
                     </li>
 
@@ -628,28 +792,63 @@
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Khu vực
+                        Thiết kế cover,banner
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Đối tượng
+                        Đổi tên Fanpage
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Thời gian
+                        Hỗ trợ chạy VPCS
                       </p>
                     </li>
                     <li class="about-item">
                       <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                       <p class="section-text">
-                        Viết content chạy ads: Miễn phí 10 bài
+                        Bài viết tương tác chuyên sâu : 15 bài
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Chia sẻ group tiềm năng : 100 nhóm
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tăng Like bài viết : 150 like
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Tăng Like page : 5.000 like
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        80.000 Lượt tiếp cận
+                      </p>
+                    </li>
+                    <li class="about-item">
+                      <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+                      <p class="section-text">
+                        Thời Gian : 1 Tháng
                       </p>
                     </li>
 

@@ -606,8 +606,7 @@
           <p class="section-text">
             Khi Bạn Cần, Chúng Tôi Sẽ Ở Đây - Hãy Liên Hệ Với Chúng Tôi.
           </p>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d239.69776803841566!2d108.22068300000001!3d16.004961!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421bcafe6e72df%3A0xfee3db1bc500b1cb!2sT-Media!5e0!3m2!1svi!2s!4v1697194919537!5m2!1svi!2s" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          <form action="" class="contact-form">
+          <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=T-Media&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://connectionsgame.org/">Connections NYT</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:400px;}.gmap_iframe {height:400px!important;}</style></div>          <form action="" class="contact-form">
 
             <div class="input-wrapper">
               <input type="text" name="name" aria-label="name" placeholder="Your name*" required class="input-field">

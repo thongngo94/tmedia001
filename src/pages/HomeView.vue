@@ -50,7 +50,7 @@
                 </h3>
 
                 <p class="card-text">
-                  Dịch vụ Quảng cáo Facebook của chúng tôi: Khi bạn muốn thúc đẩy thương hiệu và sản phẩm của mình lên tầm cao mới, Facebook là một trong những công cụ quảng cáo mạnh mẽ và hiệu quả nhất trên thị trường kỹ thuật số. Với hơn 2 tỷ người dùng hàng tháng</br></br></br></br>
+                  Dịch vụ Quảng cáo Facebook của chúng tôi: Khi bạn muốn thúc đẩy thương hiệu và sản phẩm của mình lên tầm cao mới, Facebook là một trong những công cụ quảng cáo mạnh mẽ và hiệu quả nhất trên thị trường kỹ thuật số. Với hơn 2 tỷ người dùng hàng tháng
                 </p>
 
               </div>

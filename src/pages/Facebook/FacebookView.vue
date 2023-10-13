@@ -308,11 +308,11 @@
 
                   <div class="card-content">
 
-                    <p class="card-subtitle">Quảng Cáo Facebook Tiếp Cận</p>
+                    <p class="card-subtitle"><h3>Quảng Cáo Facebook Tiếp Cận</h3></p>
 
-                    <h3 class="h3">
+                    <h6 class="h6">
                       <a href="#" class="card-title">Dựa theo số lượng khách hàng nhìn thấy bài viết quảng cáo Facebook để tính phí. Mục tiêu nhằm tăng độ phủ, nhận diện thương hiệu trên Social</a>
-                    </h3>
+                    </h6>
 
                     <a href="#" class="btn btn-primary">View Details</a>
 

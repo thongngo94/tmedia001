@@ -372,7 +372,7 @@
             Bảng Báo Giá Dịch Vụ Quảng Cáo TikTok</h2>
 
           <p class="section-text">
-            Dưới đây là bảng báo giá dịch vụ Quảng Cáo TikTok  của T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0974 151514 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
+            Dưới đây là bảng báo giá dịch vụ Quảng Cáo TikTok  của T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0964.898.041 để nhận hỗ trợ của chuyên viên marketing. Trân trọng
           </p>
 
           <ul class="grid-list">
@@ -802,7 +802,7 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+0974151514" class="card-link">+0974151514</a>
+                  <a href="tel:+0964.898.041" class="card-link">+0964.898.041</a>
 
 
                 </div>

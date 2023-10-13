@@ -528,7 +528,7 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+0974151514" class="card-link">+0974151514</a>
+                  <a href="tel:+0964.898.041" class="card-link">+0964.898.041</a>
 
 
                 </div>

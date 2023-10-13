@@ -852,8 +852,7 @@
 
                   <h3 class="h3 card-title">Call Here</h3>
 
-                  <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
-                  <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+                  <a href="tel:+0964.898.041" class="card-link">0964.898.041</a>
 
                 </div>
 

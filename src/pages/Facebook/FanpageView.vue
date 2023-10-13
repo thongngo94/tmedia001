@@ -184,7 +184,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/facebook" class="card-title">Gia Tăng Mức Độ Nhận Diện Thương Hiệu</Link>
+                  <Link to="#" class="card-title">Gia Tăng Mức Độ Nhận Diện Thương Hiệu</Link>
                 </h3>
 
                 <p class="card-text">

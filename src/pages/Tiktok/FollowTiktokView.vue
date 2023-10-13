@@ -132,7 +132,7 @@
                 <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                 <p class="section-text">
-                  Tăng follow TikTok thông qua hình thức chạy quảng cáo tăng follow kênh. Lượng follower chất lượng hỗ trợ bán hàng, xây dựng thương hiệu trên TikTok. Trung Huy Marketing hiện đang là Đối Tác Chính Thức TikTok Việt Nam đảm bảo hỗ trợ khách hàng những follower chất lượng nhất. Cam Kết 100% Follow Thật.
+                  Tăng follow TikTok thông qua hình thức chạy quảng cáo tăng follow kênh. Lượng follower chất lượng hỗ trợ bán hàng, xây dựng thương hiệu trên TikTok. T-MEDIA hiện đang là Đối Tác Chính Thức TikTok Việt Nam đảm bảo hỗ trợ khách hàng những follower chất lượng nhất. Cam Kết 100% Follow Thật.
                 </p>
               </li>
 

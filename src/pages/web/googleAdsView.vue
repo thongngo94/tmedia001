@@ -96,7 +96,7 @@
         <div class="container">
 
           <div class="about-banner img-holder" style="--width: 930; --height: 960;">
-            <img src="../../assets/images/quang-cao-facebook1.png" width="1000" height="1000" loading="lazy" alt="about banner"
+            <img src="../../assets/images/google.jpeg" width="1000" height="1000" loading="lazy" alt="about banner"
                  class="img-cover">
 
             <button class="play-btn" aria-label="Play video">
@@ -184,7 +184,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/facebook" class="card-title">Tiếp Cận Khách Hàng Mục Tiêu Chính Xác Nhờ Google Ads</Link>
+                  <Link to="#" class="card-title">Tiếp Cận Khách Hàng Mục Tiêu Chính Xác Nhờ Google Ads</Link>
                 </h3>
 
 <!--                <p class="card-text">-->
@@ -297,9 +297,9 @@
 
                   <p class="card-subtitle">Search Adwords</p>
 
-                  <h3 class="h3">
+                  <h5 class="h3">
                     <a href="#" class="card-title">Google Search Network là một kênh quảng cáo PPC được phổ biến nhất. Khi có nhu cầu tìm từ khóa trên Google, danh sách website được chạy quảng cáo sẽ xuất hiện đúng thời điểm và ở phía trên các website tự nhiên. Chính vì vậy, website của bạn sẽ dễ dàng tiếp cận được với người dùng. Search Network bao gồm như: standard ad, dynamic ad, call-only ad và quảng cáo toàn cầu (còn gọi là mobile app promotion)</a>
-                  </h3>
+                  </h5>
 
                   <a href="#" class="btn btn-primary">View Details</a>
 
@@ -320,9 +320,9 @@
 
                   <p class="card-subtitle"> Display Ads</p>
 
-                  <h3 class="h3">
+                  <h5 class="h3">
                     <a href="#" class="card-title">Khi bạn lướt tình cờ đọc một bài đăng hay xem video trên website chuyên nghiệp nào đó, bạn sẽ thấy quảng cáo (ví dụ banner, flash,..) xuất hiện nhiều vị trí khác nhau trên trang. Đây chính là hình thức của quảng cáo video– Display Network. Bên đây là tiêu chí quan trọng mà Google chọn các website đặt display network: – Từ khóa;  Vị trí quảng cáo; Chủ đề; Tiếp thị lại</a>
-                  </h3>
+                  </h5>
 
                   <a href="#" class="btn btn-primary">View Details</a>
 
@@ -343,9 +343,9 @@
 
                   <p class="card-subtitle">Shopping Ads</p>
 
-                  <h3 class="h3">
+                  <h5 class="h3">
                     <a href="#" class="card-title">Shopping Ads là quảng cáo mua sắm ở trên Google. Loại hình quảng cáo này có thể cho người dùng nhìn thấy thông tin dịch vụ của bạn một cách nhanh chóng như: Tên sản phẩm dịch vụ; Giá; Video, Gif; Địa chỉ website bán hàng</a>
-                  </h3>
+                  </h5>
 
                   <a href="#" class="btn btn-primary">View Details</a>
 
@@ -365,9 +365,9 @@
 
                   <p class="card-subtitle"> Video Ads</p>
 
-                  <h3 class="h3">
+                  <h5 class="h3">
                     <a href="#" class="card-title">Quảng cáo Video( Video Ads ) cho phép các bạn chạy mẫu quảng cáo trên Youtube và trên các quảng cáo Google. 3 lợi ích chính của việc chạy video ads là: Phạm vi tiếp cận lớn; Nhắm mục tiêu tốt; Có thể đo lường</a>
-                  </h3>
+                  </h5>
 
                   <a href="#" class="btn btn-primary">View Details</a>
 
@@ -391,7 +391,7 @@
         <div class="container">
 
           <div class="about-banner img-holder" style="--width: 930; --height: 960;">
-            <img src="../../assets/images/quang-cao-facebook1.png" width="1000" height="1000" loading="lazy" alt="about banner"
+            <img src="../../assets/images/google.jpeg" width="1000" height="1000" loading="lazy" alt="about banner"
                  class="img-cover">
 
             <button class="play-btn" aria-label="Play video">
@@ -519,12 +519,12 @@
             <li>
               <div class="service-card">
 
-                <p class="card-text">GÓI QL - 15%</p>
+                <p class="card-text">GÓI BASE</p>
 
 
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">$99.99</a>
+                  <a href="#" class="card-title">LIÊN HỆ</a>
                 </h3>
 
 
@@ -535,10 +535,10 @@
             <li>
               <div class="service-card">
 
-                <p class="card-text">GÓI QL - 13%</p>
+                <p class="card-text">GÓI PRO</p>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">$99.99</a>
+                  <a href="#" class="card-title">LIÊN HỆ</a>
                 </h3>
 
 
@@ -550,9 +550,9 @@
               <div class="service-card">
 
 
-                <p class="card-text">GÓI QL - 11%</p>
+                <p class="card-text">GÓI PREMIUM</p>
                 <h3 class="h3">
-                  <a href="#" class="card-title">$99.99</a>
+                  <a href="#" class="card-title">LIÊN HỆ</a>
                 </h3>
 
 

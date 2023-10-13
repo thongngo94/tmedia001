@@ -96,7 +96,7 @@
           <div class="container">
 
             <div class="about-banner img-holder" style="--width: 930; --height: 960;">
-              <img src="../../assets/images/quang-cao-facebook1.png" width="1000" height="1000" loading="lazy" alt="about banner"
+              <img src="../../assets/images/toptopads.png" width="1000" height="1000" loading="lazy" alt="about banner"
                    class="img-cover">
 
               <button class="play-btn" aria-label="Play video">
@@ -184,7 +184,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/facebook" class="card-title">Đội Ngũ Chuyên Gia Phân Tích Số Liệu</Link>
+                  <Link to="#" class="card-title">Đội Ngũ Chuyên Gia Phân Tích Số Liệu</Link>
                 </h3>
 
                 <p class="card-text">
@@ -386,7 +386,7 @@
         <div class="container">
 
           <div class="about-banner img-holder" style="--width: 930; --height: 960;">
-            <img src="../../assets/images/trunghuy5-1200x800.jpg" width="1000" height="1000" loading="lazy" alt="about banner"
+            <img src="../../assets/images/phim.jpg" width="1000" height="1000" loading="lazy" alt="about banner"
                  class="img-cover">
 
             <button class="play-btn" aria-label="Play video">
@@ -488,7 +488,7 @@
 
 
                 <h3 class="h3">
-                  <Link to="/facebook" class="card-title">30.000.000đ/tháng</Link>
+                  <Link to="#" class="card-title">30.000.000đ/tháng</Link>
                 </h3>
                 <ul class="about-list">
 

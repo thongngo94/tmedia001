@@ -422,7 +422,7 @@
 
 
                 <h3 class="h3">
-                  <Link to="/facebook" class="card-title">2.000.000đ/tháng</Link>
+                  <Link to="#" class="card-title">2.000.000đ/tháng</Link>
                 </h3>
                 <ul class="about-list">
 

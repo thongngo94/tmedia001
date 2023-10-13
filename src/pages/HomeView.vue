@@ -606,6 +606,10 @@
           <p class="section-text">
             Khi Bạn Cần, Chúng Tôi Sẽ Ở Đây - Hãy Liên Hệ Với Chúng Tôi.
           </p>
+
+          <form action="" class="contact-form">
+
+            <div class="input-wrapper">
               <input type="text" name="name" aria-label="name" placeholder="Your name*" required class="input-field">
 
               <input type="email" name="email_address" aria-label="email" placeholder="Email address*" required

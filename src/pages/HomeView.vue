@@ -12,7 +12,7 @@
             <h1 class="h1 hero-title">Giải pháp Marketing hiệu quả cho doanh nghiệp của bạn</h1>
 
             <p class="hero-text">
-              111Bắt đầu cùng với đội ngũ chuyên nghiệp của chúng tôi
+              Bắt đầu cùng với đội ngũ chuyên nghiệp của chúng tôi
             </p>
 
             <a href="#service" class="btn btn-primary">Bắt đầu ngay</a>
@@ -236,7 +236,7 @@
 
         </div>
       </section>
-      <section class="section project" id="project" aria-label="project">
+      <!--<section class="section project" id="project" aria-label="project">
         <div class="container">
 
           <h2 class="h2 section-title">Dự án gần đây của chúng tôi</h2>
@@ -388,7 +388,7 @@
           </ul>
 
         </div>
-      </section>
+      </section> -->
 
       <section class="section about" id="about" aria-label="about">
         <div class="container">

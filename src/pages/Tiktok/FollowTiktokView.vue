@@ -73,7 +73,7 @@
 
             <p class="hero-subtitle">T-MEDIA GROUP Marketing Agency</p>
 
-            <h1 class="h1 hero-title">DỊCH Vụ Tăng Follow Tiktok</h1>
+            <h1 class="h1 hero-title">Dịch Vụ Tăng Follow Tiktok</h1>
 
             <p class="hero-text">
               Bắt đầu cùng với đội ngũ chuyên nghiệp của chúng tôi
@@ -96,7 +96,7 @@
         <div class="container">
 
           <div class="about-banner img-holder" style="--width: 930; --height: 960;">
-            <img src="../../assets/images/quang-cao-facebook1.png" width="1000" height="1000" loading="lazy" alt="about banner"
+            <img src="../../assets/images/toptop.png" width="1000" height="1000" loading="lazy" alt="about banner"
                  class="img-cover">
 
             <button class="play-btn" aria-label="Play video">
@@ -184,7 +184,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/facebook" class="card-title">Gia Tăng Mức Độ Nhận Diện Thương Hiệu</Link>
+                  <Link to="#" class="card-title">Gia Tăng Mức Độ Nhận Diện Thương Hiệu</Link>
                 </h3>
 
                 <p class="card-text">

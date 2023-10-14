@@ -68,7 +68,7 @@
                 </h3>
 
                 <p class="card-text">
-                  Nội dung fanpage là tổng hợp những gì bạn đăng lên “tường” ví dụ như status, video clip, hình ảnh, link website, ghi chú… Dịch vụ “quản trị fanpage Facebook” tại Trung Huy là công việc lập kế hoạch, xây dựng ý tưởng, từ đó thiết kế nội dung, hình ảnh có liên quan đến các sản phẩm, dịch vụ của bạn. Thực hiện triển khai, theo dõi cập nhật liên tục, thống kê báo cáo, tương tác phản hồi với người dùng, Việc này tạo ra sự tiện lợi để khách hàng mua hàng và gia tăng doanh thu.
+                  Nội dung fanpage là tổng hợp những gì bạn đăng lên “tường” ví dụ như status, video clip, hình ảnh, link website, ghi chú… Dịch vụ “quản trị fanpage Facebook” tại T-MEDIA là công việc lập kế hoạch, xây dựng ý tưởng, từ đó thiết kế nội dung, hình ảnh có liên quan đến các sản phẩm, dịch vụ của bạn. Thực hiện triển khai, theo dõi cập nhật liên tục, thống kê báo cáo, tương tác phản hồi với người dùng, Việc này tạo ra sự tiện lợi để khách hàng mua hàng và gia tăng doanh thu.
                 </p>
 
               </div>
@@ -158,7 +158,7 @@
                 </h3>
 
                 <p class="card-text">
-                  Nội dung fanpage là tổng hợp những gì bạn đăng lên “tường” ví dụ như status, video clip, hình ảnh, link website, ghi chú… Dịch vụ “quản trị fanpage Facebook” tại Trung Huy là công việc lập kế hoạch, xây dựng ý tưởng, từ đó thiết kế nội dung, hình ảnh có liên quan đến các sản phẩm, dịch vụ của bạn. Thực hiện triển khai, theo dõi cập nhật liên tục, thống kê báo cáo, tương tác phản hồi với người dùng, xử lý các vấn đề…
+                  Nội dung fanpage là tổng hợp những gì bạn đăng lên “tường” ví dụ như status, video clip, hình ảnh, link website, ghi chú… Dịch vụ “quản trị fanpage Facebook” tại T-MEDIA là công việc lập kế hoạch, xây dựng ý tưởng, từ đó thiết kế nội dung, hình ảnh có liên quan đến các sản phẩm, dịch vụ của bạn. Thực hiện triển khai, theo dõi cập nhật liên tục, thống kê báo cáo, tương tác phản hồi với người dùng, xử lý các vấn đề…
                 </p>
 
               </div>
@@ -634,65 +634,65 @@
 
           </form>
 
-          <ul class="contact-list">
+      <ul class="contact-list">
 
-<li class="contact-item">
-  <div class="contact-card">
+        <li class="contact-item">
+          <div class="contact-card">
 
-    <div class="card-icon">
-      <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-    </div>
+            <div class="card-icon">
+              <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+            </div>
 
-    <div class="card-content">
+            <div class="card-content">
 
-      <h3 class="h3 card-title">Mail Here</h3>
+              <h3 class="h3 card-title">Mail Here</h3>
 
-      <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
+              <a href="mailto:hr.mediagroup2023@gmail.com" class="card-link">hr.mediagroup2023@gmail.com</a>
 
-    </div>
+            </div>
 
-  </div>
-</li>
+          </div>
+        </li>
 
-<li class="contact-item">
-  <div class="contact-card">
+        <li class="contact-item">
+          <div class="contact-card">
 
-    <div class="card-icon">
-      <ion-icon name="map-outline" aria-hidden="true"></ion-icon>
-    </div>
+            <div class="card-icon">
+              <ion-icon name="map-outline" aria-hidden="true"></ion-icon>
+            </div>
 
-    <div class="card-content">
+            <div class="card-content">
 
-      <h3 class="h3 card-title">Địa chỉ</h3>
+              <h3 class="h3 card-title">Địa chỉ</h3>
 
-      <address class="card-address">
-        08 Thanh Lương 3, Đà Nẵng, Việt Nam
-      </address>
+              <address class="card-address">
+                08 Thanh Lương 3, Đà Nẵng, Việt Nam
+              </address>
 
-    </div>
+            </div>
 
-  </div>
-</li>
+          </div>
+        </li>
 
-<li class="contact-item">
-  <div class="contact-card">
+        <li class="contact-item">
+          <div class="contact-card">
 
-    <div class="card-icon">
-      <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
-    </div>
+            <div class="card-icon">
+              <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
+            </div>
 
-    <div class="card-content">
+            <div class="card-content">
 
-      <h3 class="h3 card-title">Call Here</h3>
+              <h3 class="h3 card-title">Call Here</h3>
 
-      <a href="tel:+0964.898.041" class="card-link">0964.898.041</a>
+              <a href="tel:+0964.898.041" class="card-link">0964.898.041</a>
 
-    </div>
+            </div>
 
-  </div>
-</li>
+          </div>
+        </li>
 
-</ul>
+      </ul>
 
         </div>
       </section>

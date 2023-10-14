@@ -231,6 +231,23 @@
 
               </div>
             </li>
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon" style="background-color: #6610f2">
+                  <ion-icon name="desktop"></ion-icon>
+                </div>
+
+                <h3 class="h3">
+                  <Link to="#" class="card-title">Marketing Tổng Thể</Link>
+                </h3>
+
+                <p class="card-text">
+                  Để một chiến dịch marketing thành công, bạn cần ba yếu tố chính: Content, cách thương hiệu kết nối khách hàng tiềm năng và xác định đúng thời điểm người dùng sẵn sàng trò chuyện. Chúng tôi hỗ trợ bạn xây dựng liên kết tích cực giữa thương hiệu và khách hàng mục tiêu thông qua dịch vụ Marketing tổng thể
+                </p>
+
+              </div>
+            </li>
 
           </ul>
 

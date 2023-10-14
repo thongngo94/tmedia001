@@ -234,12 +234,12 @@
             <li>
               <div class="service-card">
 
-                <div class="card-icon" style="background-color: #6610f2">
+                <div class="card-icon" style="background-color: #00f020">
                   <ion-icon name="desktop"></ion-icon>
                 </div>
 
                 <h3 class="h3">
-                  <Link to="#" class="card-title">Marketing Tổng Thể</Link>
+                  <Link to="/marketing" class="card-title">Marketing Tổng Thể</Link>
                 </h3>
 
                 <p class="card-text">

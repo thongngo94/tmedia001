@@ -94,6 +94,14 @@ const router = createRouter({
             component: () => import('../pages/web/thietkeView.vue')
         },
         {
+            path: '/marketing',
+            name: 'marketing',
+            // route level code-splitting
+            // this generates a separate chunk (About.[hash].js) for this route
+            // which is lazy-loaded when the route is visited.
+            component: () => import('../pages/web/marketing.vue')
+        },
+        {
             path: '/quan-tri-website',
             name: 'quantriweb',
             // route level code-splitting
